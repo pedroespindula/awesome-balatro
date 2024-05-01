@@ -81,7 +81,7 @@
 - [The Soul](https://mathisfun0.github.io/The-Soul/) - 在线种子分析工具。 by [@MathIsFun_](https://github.com/MathIsFun0)
 
 ## 模组加载器
-- [Balamod](https://github.com/UwUDev/balamod) - 模组加载器，注入器和反编译器，支持注入游戏内部代码。 by [@UwUDev](https://github.com/UwUDev)
+- [Balamod](https://github.com/balamod/balamod) - 模组加载器，注入器和反编译器，支持注入游戏内部代码。 by [@UwUDev](https://github.com/UwUDev)
 - [Lovely](https://github.com/ethangreen-dev/lovely-injector) - 作用于 LOVE2D 游戏的运行时 lua 注入器。 by [@ethangreen-dev](https://github.com/ethangreen-dev)
 - [Steamodded](https://github.com/Steamopollys/Steamodded) - 模组加载器（目前最常用的加载器）。 by [@Steamo](https://github.com/Steamopollys)
 
@@ -311,7 +311,7 @@
 
 ---
 
-## 模组 (依赖 [Balamod](https://github.com/UwUDev/balamod))
+## 模组 (依赖 [Balamod](https://github.com/balamod/balamod))
 ### API
 - [Center Hook](https://github.com/nicholassam6425/balatro-mods) - 一个API/钩子，用于将卡（小丑卡、优惠券、卡包、消耗卡）添加到游戏中。 by [@arachnei](https://github.com/nicholassam6425)
 - [JS_Center](https://github.com/JopStro/BalatroMods) - 增加新卡牌。 by [@JopStro](https://github.com/JopStro)
